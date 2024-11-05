@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://utasaele.github.io/DOF/sitemap_index.txt
+Sitemap: https://utasaele.github.io/Vhx/sitemap_index.txt
+Sitemap: https://utasaele.github.io/fYA/sitemap_index.txt
+Sitemap: https://utasaele.github.io/qfw/sitemap_index.txt
